@@ -1,6 +1,7 @@
 Este é o meu **primeiro projeto desenvolvido durante o curso Fullstack da Rocketseat**, dentro do módulo de **Fundamentos de HTML e CSS**.
 
-**Projeto: Página de Receita
+**Projeto: Página de Receita**
+
 Neste projeto, coloquei em prática os conceitos iniciais de desenvolvimento web, aprendendo como estruturar páginas utilizando **HTML** e como aplicar **estilização com CSS** para melhorar a aparência e organização dos elementos na tela.
 
 Durante o desenvolvimento, trabalhei principalmente com:
